@@ -1,0 +1,11 @@
+
+
+export const ActionTypes={
+    SET_TODOS:"SET_TODOS",
+    LOADING:"LOADING ",
+    ERROR:"ERROR",
+    ADD_TODO:"ADD_TODO",
+    DELETE_TODO:"DELETE_TODO",
+    UPDATE_TODO:"UPDATE_TODO"
+
+}
